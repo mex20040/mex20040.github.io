@@ -1,0 +1,273 @@
+.header-img{
+    background:  url(/img/bgc.png);
+    background-repeat: no-repeat;
+    height: 800px;
+
+    
+}
+.header-logo{
+    background: url(img/logo1.png);
+    background-repeat: no-repeat
+}
+.header-search{
+    background: url(img/Search.png);
+    background-repeat: no-repeat;
+}
+.header-globe{
+    background: url(img/Globe.png);
+    background-repeat: no-repeat;
+}
+.expoforum{
+    height: 700px;
+}
+.expoforum--blue{
+    background: #2378FC;
+    padding: 20px 0px 10px 40px;
+}
+.expoforum--red{
+    background: #F6404F;
+    padding: 20px 0px 20px 40px;
+}
+.expoforum--yellow{
+    background: #FFC41E;
+    padding: 20px 0px 20px 40px;
+}
+.expoforum--gray{
+    background: #30BCC9;
+    padding: 20px 0px 10px 40px;
+}
+
+.a__white{
+    color: white;
+    text-decoration-color: rgb(0 0 0 / 0%);
+}
+
+.news__text__red{
+    color: #F6404F;
+}
+
+.cats {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 150px 150px;
+}
+
+.keks {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.average--text{
+font-size: 21px;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.little--text{
+font-size: 14px;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.sweat--text{
+font-size: 15px;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.side-menu{
+background: #2378FC;
+}
+
+h2{
+    font-size: 29px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h4{
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+li{
+    font-size: 13px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.bgc__a{
+    color: #ffffff;
+    text-decoration-color: rgb(0 0 0 / 0%);
+}
+
+.bgc__a:hover{
+    color: #FFC41E;
+    text-decoration-color: #FFC41E;
+}
+
+.window-event{
+    background: #FFC41E;
+}
+
+.list-events{
+background: darkblue;
+}
+
+.events-headlines{
+    color: #F6404F;
+    
+}
+
+
+.events__expo{
+    position: relative;
+    background: url(img/EXPO.png);
+    background-repeat: no-repeat;
+    height: 370px;
+}
+
+.events__junwex{
+    position: relative;
+    background: url(img/JUNWEX.png);
+    background-repeat: no-repeat;
+    height: 370px;
+}
+
+.events__nebckn{
+    position: relative;
+    background: url(img/HEBCKN.png);
+    background-repeat: no-repeat;
+    height: 392px;
+}
+
+.events__nha{
+    position: relative;
+    background: url(img/NWA.png);
+    background-repeat: no-repeat;
+    height: 370px;
+}
+
+.events__hi{
+    position: relative;
+    background: url(img/NI.png);
+    background-repeat: no-repeat;
+    height: 370px;
+}
+
+.events__vet{
+    position: relative;
+    background: url(img/VET.png);
+    background-repeat: no-repeat;
+    height: 370px;
+}
+
+.events__text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+.events__a{
+    color: #000;
+    text-decoration-color: #000;
+}
+
+.events__a:hover{
+    color: #000;
+    text-decoration-color: #010008;
+}
+
+.news--expotree{
+    background: url(img/Expo-tree.png);
+    height: 215px;
+    width: 445px;
+}
+
+.news--expofrum{
+    background: url(img/EXPOFRUM.png);
+    height: 215px;
+    width: 445px;
+}
+
+.news--knees{
+    background: url(img/Knees.png);
+    width: 160px;
+    height: 120px;
+}
+
+.news--crowddark{
+    background: url(img/Crowd-dark.png);
+    width: 160px;
+    height: 120px;
+}
+
+.news--crowdsveta{
+    background: url(img/Crowd-sveta.png);
+    width: 160px;
+    height: 120px;
+}
+
+.footer{
+    background: #30bcc9;
+}
+
+.footer__a{
+    color: #E0E0E0;
+    text-decoration-color: rgb(0 0 0 / 0%);
+}
+
+.footer__a:hover{
+    color: #FFC41E;
+    text-decoration-color: #FFC41E
+}
+
+svg{
+    width: 45px;
+    height: 35px;
+   fill: #E0E0E0;
+}
+
+.footer--group{
+    background: url(img/Group.png);
+    width: 160px;
+    height: 53px;
+}
+
+.footer--frame{
+    background: url(img/Frame.png);
+    width: 160px;
+    height: 47px;
+}
+
+.footer--button{    
+    background:  #F6404F url(img/Vector.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 40px;
+    height: 40px;
+    border: 0;
+}
+
+.footer--input{
+    height: 40px;
+    color: #9C9C9C;
+    font-size: 11px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
